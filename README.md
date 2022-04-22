@@ -1,3 +1,12 @@
+- [Malaria Cell image detection by Tensorflow](#malaria-cell-image-detection-by-tensorflow)
+- [Model creation](#model-creation)
+  - [Training and validation accuracy with epoch](#training-and-validation-accuracy-with-epoch)
+  - [Training and validation loss with epoch](#training-and-validation-loss-with-epoch)
+- [Testing](#testing)
+- [Conclusion](#conclusion)
+- [Acknowledgements](#acknowledgements)
+
+
 # Malaria Cell image detection by Tensorflow
 
 The original data set contains 27558 images. 
