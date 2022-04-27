@@ -149,7 +149,7 @@ results:
 
 
 # Conclusion
-- successfully created tensorflow model with accuracy over 0.95
+- successfully created tensorflow model with accuracy over 95% .
 
 
 
